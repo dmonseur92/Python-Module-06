@@ -1,1 +1,1 @@
-from potions import healing_potion, strength_potion
+from ..potions import healing_potion, strength_potion
